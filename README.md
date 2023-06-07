@@ -25,5 +25,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+![image](https://github.com/DEEPAK2200233/Correlation_Regression/assets/118707676/1e279315-4601-443c-b1fa-f25181c34996)
 
 # Output 
